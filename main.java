@@ -1,7 +1,0 @@
-class main{
-
-    public main() {
-        
-    }
-    
-}
